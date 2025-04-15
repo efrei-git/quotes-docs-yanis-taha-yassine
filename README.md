@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/DHjm5Yye)
+# Solutions de l'évaluation notée 2 du groupe yanis-taha-yassine
+
+Solutions de l'évaluation notée 2 du groupe yanis-taha-yassine à l'aide de MkDocs.
+
+## Membres du groupe
+
+- Initiateur : Yanis
+- Contributeur 1 : Yassine
+- Contributeur 2 : Taha
+- Contributeur 3 : Hager
+
+## URLs des dépôts
+
+- Initiateur : https://github.com/efrei-git/quotes-docs-yanis-taha-yassine
+
