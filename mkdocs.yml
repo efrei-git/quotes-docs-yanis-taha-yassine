@@ -1,15 +1,16 @@
-site_name: Documentation Programming Quotes - yanis-taha-yassine
+site_name: Documentation Programming Quotes yanis-taha-yassine
+ 
 nav:
   - Home: index.md
   - User's Guide:
       - Features: features/features.md
-      - Core Functions: features/functions.md
+      - Core Functions: features/function.md
       - User Interface: features/user-interface.md
   - Logs:
       - Initiateur: logs/log-initiateur.md
       - Contributeur 1: logs/log-contributeur-1.md
       - Contributeur 2: logs/log-contributeur-2.md
       - Contributeur 3: logs/log-contributeur-3.md
-
-theme: readthedocs
-
+ 
+theme:
+  name: readthedocs
